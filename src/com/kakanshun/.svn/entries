@@ -1,0 +1,48 @@
+10
+
+dir
+3
+http://code.taobao.org/svn/SqlBookManage/BookManage/src/com/kakanshun
+http://code.taobao.org/svn/SqlBookManage
+
+
+
+2016-01-02T07:25:06.219548Z
+3
+kakanshun
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+0f704991-ce12-4e6a-9915-12c3ce7b9d71
+
+
+
+
+
+
+0
+empty
+
+controller
+dir
+
+dao
+dir
+
+domain
+dir
+
+util
+dir
+

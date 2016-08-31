@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/SqlBookManage/!svn/ver/3/BookManage/WebRoot/manage
+END
+inputinfo.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/SqlBookManage/!svn/ver/3/BookManage/WebRoot/manage/inputinfo.jsp
+END
+login.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/SqlBookManage/!svn/ver/3/BookManage/WebRoot/manage/login.jsp
+END
+addbook.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/SqlBookManage/!svn/ver/3/BookManage/WebRoot/manage/addbook.jsp
+END
+adduser.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/SqlBookManage/!svn/ver/3/BookManage/WebRoot/manage/adduser.jsp
+END
+bookmanage.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/SqlBookManage/!svn/ver/7/BookManage/WebRoot/manage/bookmanage.jsp
+END
+findalllentbook.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/SqlBookManage/!svn/ver/3/BookManage/WebRoot/manage/findalllentbook.jsp
+END
+usermanage.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/SqlBookManage/!svn/ver/3/BookManage/WebRoot/manage/usermanage.jsp
+END
+findallbook.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/SqlBookManage/!svn/ver/3/BookManage/WebRoot/manage/findallbook.jsp
+END
+index.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/SqlBookManage/!svn/ver/3/BookManage/WebRoot/manage/index.jsp
+END
+updatebook.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/SqlBookManage/!svn/ver/3/BookManage/WebRoot/manage/updatebook.jsp
+END
+findallnotlentbook.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/SqlBookManage/!svn/ver/3/BookManage/WebRoot/manage/findallnotlentbook.jsp
+END
+findalluser.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/SqlBookManage/!svn/ver/3/BookManage/WebRoot/manage/findalluser.jsp
+END
+updateuser.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/SqlBookManage/!svn/ver/3/BookManage/WebRoot/manage/updateuser.jsp
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/SqlBookManage/!svn/ver/3/BookManage/WebRoot/WEB-INF
+END
+web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/SqlBookManage/!svn/ver/4/BookManage/WebRoot/WEB-INF/web.xml
+END
+springmvc-servlet.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/SqlBookManage/!svn/ver/3/BookManage/WebRoot/WEB-INF/springmvc-servlet.xml
+END
